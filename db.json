@@ -1,0 +1,471 @@
+{
+  "parts": [
+    {
+      "name": "Remenica",
+      "material": "Nazubljeni stap",
+      "code": "30.030.0A",
+      "machine": "Icut",
+      "id": 45
+    },
+    {
+      "name": "PBHC",
+      "material": "Steel",
+      "code": "64942-1300",
+      "machine": "Icut",
+      "id": 46
+    },
+    {
+      "name": "HZNP",
+      "material": "Steel",
+      "code": "57955-5065",
+      "machine": "Icut",
+      "id": 47
+    },
+    {
+      "name": "CSPI",
+      "material": "Plastic",
+      "code": "0781-3367",
+      "machine": "Ford",
+      "id": 48
+    },
+    {
+      "name": "CBMX",
+      "material": "Steel ",
+      "code": "45802-338",
+      "machine": "Chevrolet",
+      "id": 49
+    },
+    {
+      "id": 50,
+      "name": "SSW^G",
+      "material": "Granite",
+      "code": "63783-012",
+      "machine": "Ford",
+      "picture": "https://robohash.org/undeprovidentconsequatur.png?size=50x50&set=set1"
+    },
+    {
+      "name": "IDTI",
+      "material": "Rubber",
+      "code": "59078-032",
+      "machine": "Irun",
+      "id": 51
+    },
+    {
+      "id": 52,
+      "name": "WPPGY",
+      "material": "Brass",
+      "code": "51672-4054",
+      "machine": "Mercury",
+      "picture": "https://robohash.org/velquiaaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 53,
+      "name": "SAJA",
+      "material": "Wood",
+      "code": "0245-0144",
+      "machine": "Pontiac",
+      "picture": "https://robohash.org/sitdeseruntvelit.png?size=50x50&set=set1"
+    },
+    {
+      "name": "RPRX",
+      "material": "Steel",
+      "code": "76472-1163",
+      "machine": "Irun",
+      "id": 54
+    },
+    {
+      "id": 55,
+      "name": "IQI",
+      "material": "Steel",
+      "code": "0378-6260",
+      "machine": "Isuzu",
+      "picture": "https://robohash.org/necessitatibuseosautem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 56,
+      "name": "OIBR.C",
+      "material": "Rubber",
+      "code": "51345-057",
+      "machine": "Mercedes-Benz",
+      "picture": "https://robohash.org/autemsedrem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 57,
+      "name": "NAZ",
+      "material": "Brass",
+      "code": "61786-027",
+      "machine": "Chevrolet",
+      "picture": "https://robohash.org/veritatisauttempora.png?size=50x50&set=set1"
+    },
+    {
+      "id": 58,
+      "name": "FSM",
+      "material": "Aluminum",
+      "code": "0280-0223",
+      "machine": "Mazda",
+      "picture": "https://robohash.org/eosmolestiaevel.png?size=50x50&set=set1"
+    },
+    {
+      "id": 59,
+      "name": "NWL",
+      "material": "Rubber",
+      "code": "54868-5494",
+      "machine": "Mazda",
+      "picture": "https://robohash.org/consequaturpraesentiumanimi.png?size=50x50&set=set1"
+    },
+    {
+      "id": 60,
+      "name": "DELT",
+      "material": "Aluminum",
+      "code": "41415-050",
+      "machine": "Scion",
+      "picture": "https://robohash.org/dictadoloremqueet.png?size=50x50&set=set1"
+    },
+    {
+      "id": 61,
+      "name": "BEN",
+      "material": "Stone",
+      "code": "35000-711",
+      "machine": "Infiniti",
+      "picture": "https://robohash.org/fugiatmodiest.png?size=50x50&set=set1"
+    },
+    {
+      "id": 62,
+      "name": "AXARW",
+      "material": "Brass",
+      "code": "10202-259",
+      "machine": "Dodge",
+      "picture": "https://robohash.org/easequiaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 63,
+      "name": "FCSC",
+      "material": "Brass",
+      "code": "49738-295",
+      "machine": "Infiniti",
+      "picture": "https://robohash.org/ametullamofficia.png?size=50x50&set=set1"
+    },
+    {
+      "id": 64,
+      "name": "YUM",
+      "material": "Vinyl",
+      "code": "21695-151",
+      "machine": "Lincoln",
+      "picture": "https://robohash.org/utexcepturiconsectetur.png?size=50x50&set=set1"
+    },
+    {
+      "id": 65,
+      "name": "ABR^B",
+      "material": "Plastic",
+      "code": "42043-140",
+      "machine": "Plymouth",
+      "picture": "https://robohash.org/ipsumconsequaturreprehenderit.png?size=50x50&set=set1"
+    },
+    {
+      "id": 66,
+      "name": "AAAP",
+      "material": "Aluminum",
+      "code": "53389-540",
+      "machine": "Buick",
+      "picture": "https://robohash.org/abmolestiaeeos.png?size=50x50&set=set1"
+    },
+    {
+      "id": 67,
+      "name": "TAP",
+      "material": "Brass",
+      "code": "35356-913",
+      "machine": "Chrysler",
+      "picture": "https://robohash.org/velcumautem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 68,
+      "name": "VTHR",
+      "material": "Rubber",
+      "code": "45802-433",
+      "machine": "Dodge",
+      "picture": "https://robohash.org/corporisaccusantiumhic.png?size=50x50&set=set1"
+    },
+    {
+      "id": 69,
+      "name": "RFT",
+      "material": "Granite",
+      "code": "43598-204",
+      "machine": "Ferrari",
+      "picture": "https://robohash.org/atrepellatid.png?size=50x50&set=set1"
+    },
+    {
+      "id": 70,
+      "name": "TEVA",
+      "material": "Steel",
+      "code": "68788-0014",
+      "machine": "Toyota",
+      "picture": "https://robohash.org/eumquiaprovident.png?size=50x50&set=set1"
+    },
+    {
+      "id": 71,
+      "name": "BBC",
+      "material": "Stone",
+      "code": "42507-866",
+      "machine": "Dodge",
+      "picture": "https://robohash.org/reprehenderitadipisciofficiis.png?size=50x50&set=set1"
+    },
+    {
+      "id": 72,
+      "name": "CTLT",
+      "material": "Wood",
+      "code": "48871-002",
+      "machine": "Kia",
+      "picture": "https://robohash.org/abeaaspernatur.png?size=50x50&set=set1"
+    },
+    {
+      "name": "VLO",
+      "material": "Steel",
+      "code": "43538-300",
+      "machine": "Ford",
+      "id": 73
+    },
+    {
+      "id": 74,
+      "name": "BDXA",
+      "material": "Plastic",
+      "code": "0268-1454",
+      "machine": "Audi",
+      "picture": "https://robohash.org/officiaquiasperiores.png?size=50x50&set=set1"
+    },
+    {
+      "id": 75,
+      "name": "AAL",
+      "material": "Rubber",
+      "code": "54868-6305",
+      "machine": "Buick",
+      "picture": "https://robohash.org/beataedolorfacilis.png?size=50x50&set=set1"
+    },
+    {
+      "id": 76,
+      "name": "CSPI",
+      "material": "Wood",
+      "code": "62559-138",
+      "machine": "Audi",
+      "picture": "https://robohash.org/etestdolorem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 77,
+      "name": "RLJE",
+      "material": "Steel",
+      "code": "67457-342",
+      "machine": "Honda",
+      "picture": "https://robohash.org/temporaetea.png?size=50x50&set=set1"
+    },
+    {
+      "id": 78,
+      "name": "RYI",
+      "material": "Plexiglass",
+      "code": "62011-0189",
+      "machine": "Toyota",
+      "picture": "https://robohash.org/autsequiautem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 79,
+      "name": "UZA",
+      "material": "Aluminum",
+      "code": "37205-665",
+      "machine": "Ford",
+      "picture": "https://robohash.org/eaveniamet.png?size=50x50&set=set1"
+    },
+    {
+      "id": 80,
+      "name": "BBBY",
+      "material": "Brass",
+      "code": "43269-748",
+      "machine": "Maserati",
+      "picture": "https://robohash.org/estquiafugit.png?size=50x50&set=set1"
+    },
+    {
+      "id": 81,
+      "name": "TG",
+      "material": "Stone",
+      "code": "41163-561",
+      "machine": "Buick",
+      "picture": "https://robohash.org/evenietestaperiam.png?size=50x50&set=set1"
+    },
+    {
+      "id": 82,
+      "name": "ADMP",
+      "material": "Brass",
+      "code": "10544-773",
+      "machine": "Chevrolet",
+      "picture": "https://robohash.org/voluptatumdeseruntaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 83,
+      "name": "ALP^O",
+      "material": "Glass",
+      "code": "47202-1141",
+      "machine": "Chrysler",
+      "picture": "https://robohash.org/rerumoptioaspernatur.png?size=50x50&set=set1"
+    },
+    {
+      "id": 84,
+      "name": "PKY",
+      "material": "Rubber",
+      "code": "63739-284",
+      "machine": "Lexus",
+      "picture": "https://robohash.org/porrocumquequaerat.png?size=50x50&set=set1"
+    },
+    {
+      "id": 85,
+      "name": "ZB^G",
+      "material": "Brass",
+      "code": "37808-413",
+      "machine": "Lotus",
+      "picture": "https://robohash.org/corporislaudantiumvoluptatem.png?size=50x50&set=set1"
+    },
+    {
+      "id": 86,
+      "name": "CZFC",
+      "material": "Steel",
+      "code": "54868-5864",
+      "machine": "Mitsubishi",
+      "picture": "https://robohash.org/autnonmolestiae.png?size=50x50&set=set1"
+    },
+    {
+      "id": 87,
+      "name": "CALI",
+      "material": "Aluminum",
+      "code": "0642-0070",
+      "machine": "Ford",
+      "picture": "https://robohash.org/utomnisomnis.png?size=50x50&set=set1"
+    },
+    {
+      "id": 88,
+      "name": "JTD",
+      "material": "Plexiglass",
+      "code": "0143-1425",
+      "machine": "Mercury",
+      "picture": "https://robohash.org/minimamolestiaset.png?size=50x50&set=set1"
+    },
+    {
+      "id": 89,
+      "name": "MTFBW",
+      "material": "Plastic",
+      "code": "46122-266",
+      "machine": "Chevrolet",
+      "picture": "https://robohash.org/atquetenetureveniet.png?size=50x50&set=set1"
+    },
+    {
+      "id": 90,
+      "name": "FMCIR",
+      "material": "Plastic",
+      "code": "0517-5602",
+      "machine": "Subaru",
+      "picture": "https://robohash.org/saepenisiest.png?size=50x50&set=set1"
+    },
+    {
+      "id": 91,
+      "name": "CFR",
+      "material": "Wood",
+      "code": "59045-1007",
+      "machine": "Buick",
+      "picture": "https://robohash.org/repudiandaeducimusratione.png?size=50x50&set=set1"
+    },
+    {
+      "name": "MAMS",
+      "material": "Steel",
+      "code": "52533-074",
+      "machine": "Aston Martin",
+      "id": 92
+    },
+    {
+      "id": 93,
+      "name": "ANAB",
+      "material": "Brass",
+      "code": "68405-023",
+      "machine": "Chevrolet",
+      "picture": "https://robohash.org/eteosdolor.png?size=50x50&set=set1"
+    },
+    {
+      "id": 94,
+      "name": "SLD",
+      "material": "Stone",
+      "code": "65174-288",
+      "machine": "Honda",
+      "picture": "https://robohash.org/facilisasperioresvoluptatum.png?size=50x50&set=set1"
+    },
+    {
+      "id": 95,
+      "name": "SU",
+      "material": "Plexiglass",
+      "code": "68001-154",
+      "machine": "Buick",
+      "picture": "https://robohash.org/pariatureumcorporis.png?size=50x50&set=set1"
+    },
+    {
+      "id": 96,
+      "name": "NBRV",
+      "material": "Plastic",
+      "code": "68151-5026",
+      "machine": "Chevrolet",
+      "picture": "https://robohash.org/exercitationemvelitaut.png?size=50x50&set=set1"
+    },
+    {
+      "id": 97,
+      "name": "OMEX",
+      "material": "Aluminum",
+      "code": "63181-0019",
+      "machine": "Lincoln",
+      "picture": "https://robohash.org/delenitiipsumet.png?size=50x50&set=set1"
+    },
+    {
+      "id": 98,
+      "name": "AVEO",
+      "material": "Plastic",
+      "code": "55154-1828",
+      "machine": "Cadillac",
+      "picture": "https://robohash.org/expeditaeta.png?size=50x50&set=set1"
+    },
+    {
+      "id": 99,
+      "name": "CBB",
+      "material": "Plexiglass",
+      "code": "61703-339",
+      "machine": "GMC",
+      "picture": "https://robohash.org/distinctiovelitnobis.png?size=50x50&set=set1"
+    },
+    {
+      "id": 100,
+      "name": "AEG",
+      "material": "Steel",
+      "code": "11489-088",
+      "machine": "Maserati",
+      "picture": "https://robohash.org/natusvoluptatumveniam.png?size=50x50&set=set1"
+    },
+    {
+      "name": "Osovina za remenicu",
+      "material": "C 1531.5 fi25mm",
+      "code": "110.015.0D",
+      "machine": "ICUT",
+      "id": 101
+    },
+    {
+      "name": "Remenica za enkoder",
+      "material": "21AT5-32",
+      "code": "31.193.0A",
+      "machine": "ICUT",
+      "id": 102
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "email": "nemanja@gmail.com",
+      "password": "123456"
+    },
+    {
+      "username": "Admin2",
+      "email": "admin2@gmail.com",
+      "password": "A1234a",
+      "id": 2
+    }
+  ]
+}
