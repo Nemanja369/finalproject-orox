@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/finalproject-orox/static/js/main.ed58c321.chunk.js",
+    "main.js.map": "/finalproject-orox/static/js/main.ed58c321.chunk.js.map",
+    "runtime-main.js": "/finalproject-orox/static/js/runtime-main.78b240d0.js",
+    "runtime-main.js.map": "/finalproject-orox/static/js/runtime-main.78b240d0.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/finalproject-orox/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.cb6371d9.chunk.js": "/finalproject-orox/static/js/2.cb6371d9.chunk.js",
+    "static/js/2.cb6371d9.chunk.js.map": "/finalproject-orox/static/js/2.cb6371d9.chunk.js.map",
+    "index.html": "/finalproject-orox/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/finalproject-orox/static/css/2.8c0e6b67.chunk.css.map",
+    "static/js/2.cb6371d9.chunk.js.LICENSE.txt": "/finalproject-orox/static/js/2.cb6371d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b240d0.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.cb6371d9.chunk.js",
+    "static/js/main.ed58c321.chunk.js"
+  ]
+}
